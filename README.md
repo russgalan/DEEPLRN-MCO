@@ -1,6 +1,6 @@
 # Image-Based Waste Classification with ResNet50 (TrashNet)
 
-Code implementation of the methodology described in "Image-Based Waste
+Code implementation of "Image-Based Waste
 Classification with Convolutional Neural Networks" (Borromeo, Galan, Santos).
 
 ## 1. Dataset setup
